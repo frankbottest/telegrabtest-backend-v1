@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/telegram-test-v1/static/css/main.e6c13ad2.css",
-    "main.js": "/telegram-test-v1/static/js/main.08da7b5b.js",
-    "static/js/453.8ab44547.chunk.js": "/telegram-test-v1/static/js/453.8ab44547.chunk.js",
-    "index.html": "/telegram-test-v1/index.html",
-    "main.e6c13ad2.css.map": "/telegram-test-v1/static/css/main.e6c13ad2.css.map",
-    "main.08da7b5b.js.map": "/telegram-test-v1/static/js/main.08da7b5b.js.map",
-    "453.8ab44547.chunk.js.map": "/telegram-test-v1/static/js/453.8ab44547.chunk.js.map"
+    "main.css": "/telegrabtest-backend-v1/static/css/main.e6c13ad2.css",
+    "main.js": "/telegrabtest-backend-v1/static/js/main.db41435a.js",
+    "static/js/453.8ab44547.chunk.js": "/telegrabtest-backend-v1/static/js/453.8ab44547.chunk.js",
+    "index.html": "/telegrabtest-backend-v1/index.html",
+    "main.e6c13ad2.css.map": "/telegrabtest-backend-v1/static/css/main.e6c13ad2.css.map",
+    "main.db41435a.js.map": "/telegrabtest-backend-v1/static/js/main.db41435a.js.map",
+    "453.8ab44547.chunk.js.map": "/telegrabtest-backend-v1/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.08da7b5b.js"
+    "static/js/main.db41435a.js"
   ]
 }
